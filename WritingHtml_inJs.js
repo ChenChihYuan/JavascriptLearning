@@ -1,3 +1,3 @@
 document.write("text");
 
-document.write("<h2> This line is the HTML language in JS</h2>");
+document.write("<h2 style='color:blue'> This line is the HTML language in JS</h2>");
