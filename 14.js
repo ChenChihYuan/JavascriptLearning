@@ -1,3 +1,4 @@
-function handleClick(){
-    alert("Clicked");
+function handleClick(element){
+    element.innerHTML = "TextChanged";
+    // alert("Clicked");
 }
